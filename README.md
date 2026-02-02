@@ -9,16 +9,10 @@ Power BI, Python, Excel, and Machine Learning.
 
 ### 🛠 Tools & Skills
 - Power BI
-- Python (Pandas, NumPy, Matplotlib)
+- Python 
 - SQL
 - Excel
 - Machine Learning
-
-### 📊 Projects
-- Sales Analysis Dashboard (Power BI)
-- Fraud Detection using Machine Learning
-- Customer Churn Analysis
-- Financial Data EDA
 
 ### 📬 Contact
 Email: madhumardoor30@gmail.com
