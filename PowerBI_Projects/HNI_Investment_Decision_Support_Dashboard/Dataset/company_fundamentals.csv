@@ -1,0 +1,8 @@
+symbol,company_name,market_cap,total_revenue,profit_margin,free_cash_flow,debt_to_equity,roe,beta,sector,industry
+AAPL,Apple Inc.,3816436269056.00,416161005568.00,0.26915002,78862254080,152.411,1.7142199,1.093,Technology,Consumer Electronics
+MSFT,Microsoft Corporation,3219010355200.00,293812011008.00,0.35707,53327376384,33.154,0.32241002,1.073,Technology,Software - Infrastructure
+NVDA,NVIDIA Corporation,4687040872448.00,187141996544.00,0.53007,53282873344,9.102,1.07359,2.314,Technology,Semiconductors
+GOOGL,Alphabet Inc.,4096925106176.00,385476001792.00,0.32233003,47997751296,11.424,0.3545,1.086,Communication Services,Internet Content & Information
+AMZN,"Amazon.com, Inc.",2584145821696.00,691330023424.00,0.11063,26080000000,43.405,0.24327,1.376,Consumer Cyclical,Internet Retail
+META,"Meta Platforms, Inc.",1867596038144.00,189458006016.00,0.30892,18617749504,26.311,0.32643002,1.287,Communication Services,Internet Content & Information
+TSLA,"Tesla, Inc.",1563113029632.00,95632998400.00,0.05314,2979249920,17.082,0.06791,1.835,Consumer Cyclical,Auto Manufacturers
