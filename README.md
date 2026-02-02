@@ -5,14 +5,14 @@
 
 ---
 
-## 🔍 About Me
+##  About Me
 I am a Data Analyst with an M.Sc. in Data Science, passionate about transforming raw data into actionable business insights. I have hands-on experience in building dashboards, performing data analysis, and supporting data-driven decision-making using Power BI, Python, SQL, and Excel.
 
 I have worked across multiple domains including finance, HR analytics, performance analytics, and AI/ML-driven solutions.
 
 ---
 
-## 🛠 Tools & Skills
+##  Tools & Skills
 - **Data Analytics & BI:** Power BI, DAX, Power Query, Excel  
 - **Programming & Databases:** Python, SQL, R  
 - **Machine Learning & AI:** Supervised & Unsupervised Learning, NLP, Deep Learning  
@@ -21,7 +21,7 @@ I have worked across multiple domains including finance, HR analytics, performan
 
 ---
 
-## 📊 Power BI Dashboards
+##  Power BI Dashboards
 This repository contains a consolidated view of my analytics portfolio.  
 Detailed Power BI dashboards and documentation are available inside the **PowerBI_Projects** folder.
 
@@ -32,12 +32,22 @@ Key dashboards include:
   - 360° Candidate Intelligence (global skills & experience analysis)
 
 📁 Navigate to: `PowerBI_Projects/`
+###  Featured Dashboards
+
+- 🐎 **Dressage Horse Performance & Risk Analytics**  
+  👉 https://github.com/madhumardoor/Data-Analytics-Data-Science-Portfolio/tree/main/PowerBI_Projects/Dressage_Horse_Performance_Analytics_PowerBI
+
+- 💼 **HNI Investment Decision Support Dashboard**  
+  👉 https://github.com/madhumardoor/Data-Analytics-Data-Science-Portfolio/tree/main/PowerBI_Projects/HNI_Investment_Decision_Support_Dashboard
+
+- 🌍 **360° Candidate Intelligence Dashboard**  
+  👉 https://github.com/madhumardoor/Data-Analytics-Data-Science-Portfolio/tree/main/PowerBI_Projects/360_Candidate_Intelligence_Dashboard
 
 > Note: Due to GitHub file size limitations, some Power BI (.pbix) files and complete datasets are not uploaded. Dashboard screenshots and sample datasets are provided. Full files can be shared upon request.
 
 ---
 
-## 🤖 Machine Learning & AI Projects
+##  Machine Learning & AI Projects
 My Machine Learning and AI projects include:
 - Fraud Detection & Anomaly Detection Systems
 - Facial Emotion Detection using CNNs
@@ -48,7 +58,7 @@ My Machine Learning and AI projects include:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 ```text
 Data-Analytics-Data-Science-Portfolio/
 │
